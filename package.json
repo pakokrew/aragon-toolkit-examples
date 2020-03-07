@@ -25,7 +25,9 @@
   "dependencies": {
     "@aragon/test-helpers": "^2.1.0",
     "@aragon/toolkit": "0.0.3",
+    "axios": "^0.19.2",
     "ethereumjs-abi": "^0.6.8",
+    "ipfs-http-client": "^29.1.0",
     "web3": "^1.2.5-rc.0"
   },
   "devDependencies": {
